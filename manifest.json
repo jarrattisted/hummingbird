@@ -1,8 +1,8 @@
 {
   "name": "Hummingbird — Quickly find people on Twitter",
   "description": "This extension allows you to easily find people on Twitter without much bother.",
-  "version": "0.1",
-  "permissions": ["contextMenus"],
+  "version": "1.0",
+  "permissions": ["contextMenus", "tabs"],
   "background": {
     "scripts": ["hum.js"]
   },
